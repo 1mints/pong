@@ -1,5 +1,7 @@
 Made by Michael Z
 
+Click on main.exe to run.
+
 Coded in C++ using Raylib, here's their info:
 
 # Raylib C++ Starter Template
